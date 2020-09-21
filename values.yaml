@@ -1,1 +1,2 @@
 mysqlport: 3306
+storage: 1Gi
